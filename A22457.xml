@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation to preuent the purloyning and stealing of armes, powder, and other munition, and habilliments of warre.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22457</idno>
+            <idno type="STC">STC 8874</idno>
+            <idno type="STC">ESTC S122726</idno>
+            <idno type="EEBO-CITATION">33150373</idno>
+            <idno type="OCLC">ocm 33150373</idno>
+            <idno type="VID">28573</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28573)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:99)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation to preuent the purloyning and stealing of armes, powder, and other munition, and habilliments of warre.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXVII [1627]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains illustrated initial depicting Neptune and two seahorses.</note>
+                  <note>"Giuen at Our Court at White-Hall the eighth day of December, in the third yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Equipment.</term>
+               <term>Military supplies.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:28573:1"/>
+            <!-- PDF PAGE 5 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head type="sub">¶ A Proclamation to preuent the Purloyning and Stealing of Armes, Powder, and other Munition, and Habilliments of Warre.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings moſt Excellent MAIESTIE beeing informed, that</hi> great quantities of Armor, Munition, Shot, Powder, &amp; other Habilli<g ref="char:EOLhyphen"/>ments of Warre, haue heretofore been, &amp; are ſtil dayly purloined, ſtollen, imbezelled, and conueyed away by the Souldiers, and Mariners of his Maieſties Army &amp; Fleete, now returned from the late expedition, to the great loſſe of His Maieſty, and the infinite preiudice of His Royal ſeruice: And His Maieſtie hauing taken this notorious abuſe into mature conſi<g ref="char:EOLhyphen"/>deration, and being fully reſolued ſeuerely to puniſh all ſuch Souldiers, Mariners, and other perſon and perſons, who ſhall offend herein, Hath therefore though fit, with the Aduice of his Priuie Counſell, for repreſ<g ref="char:EOLhyphen"/>ſing and preuenting the like attempts hereafter, to publiſh and declare His Royall Commande<g ref="char:EOLhyphen"/>ment concerning the ſame; And hereby doeth ſtrictly prohibite, charge and command, all and euery Souldiers, Mariners, and all other perſons whatſoeuer, that they, nor any of them doe preſume, attempt, or goe about to Steale, Purloyne, Imbezell, Sell, Buy or Receiue any ſuch Armes, Munition, Shot, Powder, or Habilliments of Warre, vpon paine of ſuch ſeuere and condigue puniſhment for their offences, as by the Lawes and Statutes of this Realme, or by His Maieſties Prerogatiue Royall, can or may be inflicted vpon the perſons offending, either in the Stealing, Purloyning, Selling, or otherwiſe in the Buying, Receiuing or Concealing of the ſame. And becauſe His Maieſtie hath bin alſo informed, that many ſuch Armes, Munition, Shot, Powder, and other Habilliments of Warre, haue, ſince the arriuall of his Maieſties Fleete, been Purloyned and Sold in the Parts neere about <hi>Plimmouth,</hi> His Maieſtie doth hereby ſtrictly charge and command all perſon and perſons whatſoeuer, of what eſtate, condition or degree ſoe<g ref="char:EOLhyphen"/>uer they bee, to whom any the ſaid Armes, Munition, Shot, Powder, or other Habilliments of Warre haue been Sold, or in whoſe Cuſtodie the ſame or any of them are, that they and euery of them doe foorthwith bring, and deliuer, or cauſe to bee brought and deliuered the ſame, to the Maior of the ſaid Towne of <hi>Plimmouth,</hi> or to the Maiors, Bayliffes, Conſtables, or thiefe Magi<g ref="char:EOLhyphen"/>ſtrate or Officer of the Townes, Villages, or other places more remote from thence, to be by him or them ſafely kept for His Maieſties vſe, and to certifie the ſame to the Office of the Ordnance, that vpon notice thereof, the ſame may be diſpoſed of for His Maieſties Seruice; and this to bee obſerued by all and euery perſon and perſons, whom it may any wayes concerne, vpon paine of being proceeded againſt by the ſtricteſt courſe of Law which this fact ſhall deſerue, for an example to others to auoid the like offences. And for the better execution of His Maieſties honourable, iuſt and neceſſary Commands herein, His Maieſty ſtrictly chargeth and commandeth all Maiors, Sherifs, Iuſtices of Peace, Bayliffes, Headboroughs, and other Officers, and all other His Ma<g ref="char:EOLhyphen"/>ieſties good and louing Subiects, to take care to preuent and repreſſe all ſuch offences, as afore<g ref="char:EOLhyphen"/>ſayd, and to giue their aſſiſtance in the due execution of His Maieſties Command, concerning the premiſſes, as they tender their duety and Allegeance to His Maieſty, and will anſwere the contra<g ref="char:EOLhyphen"/>ry at their vtmoſt perils.</p>
+            <closer>
+               <dateline>Giuen at Our Court at Whitehall, <date>the eighth day of December, in the third yeere of Our Reigne of Great Britaine, France, and Ireland.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by BONHAM NORTON and IOHN BILL, Printers to the Kings moſt Excellent Maieſtie. M.DC.XXVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
